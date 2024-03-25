@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "profiles": [
+    "dev"
+  ],
+  "label": "master",
+  "version": "1b6ee02a68f98b7800f7f0eb3620841d82f6d5c1",
+  "state": null,
+  "propertySources": [
+    {
+      "name": "test.properties",
+      "source": {
+		"spring.application.name": "spring-ssl-bundle",
+		"server.port": 8443,
+		"server.ssl.bundle": "server",
+		"spring.ssl.bundle.pem.server.keystore.certificate": "-----BEGIN CERTIFICATE-----\nMIIFdzCCA1+gAwIBAgIEf5TeEDANBgkqhkiG9w0BAQsFADBsMRAwDgYDVQQGEwdV\nbmtub3duMRAwDgYDVQQIEwdVbmtub3duMRAwDgYDVQQHEwdVbmtub3duMRAwDgYD\nVQQKEwdVbmtub3duMRAwDgYDVQQLEwdVbmtub3duMRAwDgYDVQQDEwdVbmtub3du\nMB4XDTI0MDMyNDA3NTYzMFoXDTM0MDMyMjA3NTYzMFowbDEQMA4GA1UEBhMHVW5r\nbm93bjEQMA4GA1UECBMHVW5rbm93bjEQMA4GA1UEBxMHVW5rbm93bjEQMA4GA1UE\nChMHVW5rbm93bjEQMA4GA1UECxMHVW5rbm93bjEQMA4GA1UEAxMHVW5rbm93bjCC\nAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAKlaZHlUZ7dJvSvG3zhWAYIS\nQPBqF1QTZm6JocXtJyzEUwHyPjMFytPCGNTcUC+r9BrqM8I7/fZ+QLmw3l8O9vqU\n15TWRRFzCfgtoPprz+bmv+y5iy60anSyPPFlYgngXY1WF3LwB/O5rprADnd7qVVg\nLkmLMzS6/EBYfuyDYPPJZYIMWYQnaVYrr60aldksaQOanxwOd9KYJYfZLwXOtYiu\nmiLxKr4xmhUiiKbAL5WoBBb0Gmu1i+NZTUmZoKa+bxkWTTw9vlE84uJ05oGJV+u6\ndnq9FVuMGmF60nsS1aEuhIldLa0cDJz5RakHG4d4MZTYzK2pmCebvk2cn8FN7Erm\n3Lz9No7NgKDRdD08ykA4vpaerNbB43P9atUbMKzAbBr6qAux+jR7msEu8/ItQO4A\nwagW4H0WWssWYjWR73T4Xn+mSwejQapxaWx8bcUIUkgn5HPLZY91GOjby48skFs9\nbDpvq/KDd3hc2mFU4xGM2Z3iAzHPTkxQuvdm6FcSuKGGUxqEFdfTQed5f8J4d3LM\nuVS+io6WRkiTnK5V5fPYOakMSWBRuHPOzovXpa/ncTPceo6vtbNKEygY2gbBUypF\nBxzA8Pw1UePNGjOD4quchx9RkA28k28WTHO9G/NvsX6ndNVUuFom5axbZqy9QBfx\nGkGwoDa6Qg0wxVhjeypZAgMBAAGjITAfMB0GA1UdDgQWBBRfOpRTrqWRPLHiKVRz\nimxL9bGW1TANBgkqhkiG9w0BAQsFAAOCAgEAZ+14jp9lpDTeOHaB+XHL+9Qj9D/g\n000skgXjXLtlmT7K0rIzUs8mQdqYUeeBlV5alsvSEsGGvpLcwqxDT8+/2Ug8o0X8\nJwKyCzvIoiCl8wVqz5cZPhbtao94xnani8fPhy6qmJZw4ebZpkZj6xUfR19aXair\nrZyhTDnaF6OBjJLWnpqjgxcjTrWfrTyUiRrbf6pxB9UjLmS8P5ikc6VDL++ddxuN\n2MtdYE32Ic2efsHKcrqZmgTmH+99CuPKiURmosg6qvwOB8IULqvZcq35PvYM2gOt\nlB6MkHN8fQLmkAhXf0mlM6arEw64CeRiZPB905unKGAKwkxLSDZpW7oiC9p2Z17K\nbSES8IRnL1WfhUJSE6ZBiabg7mRCilsqVcZM14dvw5LaNUi+2ievTwcN+Hw3SMbu\nCg2HgoUYDsE6XXixJg8Rsogh4HssPUlhnLcm8z4YkOpySeJydJ6znG5gLjDnciYA\ntc7JdA8buH9XmGli1K41/VY+vLFX5JbHAKqxVngvB8ZFSahig9tEi3Oew4K9+P4s\nPVThl9oS3LpyvhzkS/+QmslZ3/CvOfdyWG2ev9jdaNqTUkbe9Unzi1UQ7weKdkly\njeeAhJt+zcf43lhICYsoOGzPF/ui4YNdn287uePZPB3aV3quvOUp76jDfNiZT+tw\nPJHSI7Y/zH6+fXk=\n-----END CERTIFICATE-----\n"
+      }
+    }
+  ]
+}
